@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - GameControllerIntro
+    - GameControllerMonth01
     - MainMenu
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
@@ -155,6 +156,9 @@ ScriptsOnlyBuild:
     methodName: ToTransportationScreen
   - assembly: Assembly-CSharp
     fullTypeName: GameControllerIntro
+    methodName: Month01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerIntro
     methodName: ChooseTransportationCar
   - assembly: Assembly-CSharp
     fullTypeName: GameControllerIntro
@@ -186,6 +190,162 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: GameControllerIntro
     methodName: ChooseJobCallCenterAgent
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: MainMenu
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: CallCenterAgentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: Event2d
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityPayGrocery2
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: BasicApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: StartMonth
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: NoDegreeInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: QuitGame
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: GameComplete
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: MotorcycleInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: BusInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityPayTravel
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: BachelorsDegreeInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: HSDiplomaInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: CrappyApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: Event2c
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: LuxuryApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: CarInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ProgrammerInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityRent
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: TeacherInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: Event2b
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: Event1b
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: FryCookInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: WaiterInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityPayGrocery3
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityGrocery
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityTravel
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityPayRent
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: Month01Summary
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: PayDay
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: GameControllerMonth01
+    methodName: ActivityPayGrocery1
   sceneClasses:
     Assets/Scenes/GameUI/MainMenu.unity:
     - Class: 1
@@ -217,21 +377,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3480}
     - Class: 114
-      Script: {instanceID: 4636}
+      Script: {instanceID: 4638}
     - Class: 114
-      Script: {instanceID: 4772}
+      Script: {instanceID: 4774}
     - Class: 114
-      Script: {instanceID: 5108}
+      Script: {instanceID: 5110}
     - Class: 114
-      Script: {instanceID: 6038}
+      Script: {instanceID: 6040}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6784}
     - Class: 114
-      Script: {instanceID: 6988}
+      Script: {instanceID: 6990}
     - Class: 114
-      Script: {instanceID: 7406}
+      Script: {instanceID: 7408}
     - Class: 114
-      Script: {instanceID: 9524}
+      Script: {instanceID: 9526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -274,17 +434,70 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3480}
     - Class: 114
-      Script: {instanceID: 6038}
+      Script: {instanceID: 6040}
     - Class: 114
-      Script: {instanceID: 6382}
+      Script: {instanceID: 6384}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6784}
     - Class: 114
-      Script: {instanceID: 6880}
+      Script: {instanceID: 6882}
     - Class: 114
-      Script: {instanceID: 6988}
+      Script: {instanceID: 6990}
     - Class: 114
-      Script: {instanceID: 7406}
+      Script: {instanceID: 7408}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/MainLevels/Month1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1568}
+    - Class: 114
+      Script: {instanceID: 2856}
+    - Class: 114
+      Script: {instanceID: 3118}
+    - Class: 114
+      Script: {instanceID: 3480}
+    - Class: 114
+      Script: {instanceID: 3574}
+    - Class: 114
+      Script: {instanceID: 6040}
+    - Class: 114
+      Script: {instanceID: 6384}
+    - Class: 114
+      Script: {instanceID: 6784}
+    - Class: 114
+      Script: {instanceID: 6990}
+    - Class: 114
+      Script: {instanceID: 7408}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -602,6 +815,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseDownMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 6c9a345de1e0ba60b12d03939f6f810b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameControllerMonth01
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1054,7 +1273,7 @@ ScriptsOnlyBuild:
     className: TextMeshSpawner
   - hash:
       serializedVersion: 2
-      Hash: 995c44bafb22a69abeb9ea3a3a298e6b
+      Hash: 52065aeecd5eee3aab18708dfb86e625
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameControllerIntro
@@ -1446,5 +1665,6 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/GameUI/MainMenu.unity
   - Assets/Scenes/MainLevels/Intro.unity
-  playerPath: C:/Users/theja/git/School/DIG6647/costoflivingsimulator1/CostofLivingSimulator1/GameBuilds/WinTestBuild1/CostofLiving
+  - Assets/Scenes/MainLevels/Month1.unity
+  playerPath: C:/Users/theja/git/School/DIG6647/costoflivingsimulator1/CostofLivingSimulator1/GameBuilds/WinTestBuild2/CostofLiving
     Simulator 1.exe

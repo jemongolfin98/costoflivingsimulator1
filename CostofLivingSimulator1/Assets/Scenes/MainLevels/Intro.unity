@@ -4366,7 +4366,7 @@ GameObject:
   - component: {fileID: 611292234}
   - component: {fileID: 611292235}
   m_Layer: 0
-  m_Name: GameController
+  m_Name: IntroController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4437,6 +4437,20 @@ MonoBehaviour:
   giftScreen3: {fileID: 668872472}
   giftScreen4: {fileID: 1324782049}
   summaryScreen: {fileID: 952353427}
+  noDegree: 0
+  hsDiploma: 0
+  bachelorsDegree: 0
+  fryCook: 0
+  waiter: 0
+  teacher: 0
+  callCenterAgent: 0
+  programmer: 0
+  crappyApartment: 0
+  basicApartment: 0
+  luxuryApartment: 0
+  car: 0
+  motorcycle: 0
+  bus: 0
   summaryInitialMoneyText: {fileID: 229793884}
   summaryEducationText: {fileID: 82175565}
   summaryJobText: {fileID: 1311711209}
@@ -4447,6 +4461,22 @@ MonoBehaviour:
   summaryTransportationCostText: {fileID: 112180789}
   summaryGiftText: {fileID: 1514262261}
   summaryCurrentMoneyText: {fileID: 2126451755}
+  initialMoney: 0
+  currentMoney: 0
+  giftMoney: 0
+  monthlySalary: 0
+  rent: 0
+  gas: 3.5
+  transportationCost: 0
+  educationSelected: 
+  jobSelected: 
+  housingSelected: 
+  transportationSelected: 
+  IntroController: {fileID: 611292233}
+  jobNow: 0
+  educationNow: 0
+  travelNow: 0
+  houseNow: 0
 --- !u!1 &614739597
 GameObject:
   m_ObjectHideFlags: 0
@@ -7569,7 +7599,7 @@ GameObject:
   - component: {fileID: 952353430}
   - component: {fileID: 952353429}
   m_Layer: 5
-  m_Name: SummaryScreen
+  m_Name: IntroSummaryScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11036,7 +11066,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1545072278}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 611292235}
+        m_TargetAssemblyTypeName: GameControllerIntro, Assembly-CSharp
+        m_MethodName: Month01
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1545072278
 MonoBehaviour:
   m_ObjectHideFlags: 0

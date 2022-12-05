@@ -47,21 +47,21 @@ public class GameControllerIntro : MonoBehaviour
     public GameObject giftScreen4;
     public GameObject summaryScreen;
 
-
-    private bool noDegree = false;
-    private bool hsDiploma = false;
-    private bool bachelorsDegree = false;
-    private bool fryCook = false;
-    private bool waiter = false;
-    private bool teacher = false;
-    private bool callCenterAgent = false;
-    private bool programmer = false;
-    private bool crappyApartment = false;
-    private bool basicApartment = false;
-    private bool luxuryApartment = false;
-    private bool car = false;
-    private bool motorcycle = false;
-    private bool bus = false;
+    //
+    public bool noDegree = false;
+    public bool hsDiploma = false;
+    public bool bachelorsDegree = false;
+    public bool fryCook = false;
+    public bool waiter = false;
+    public bool teacher = false;
+    public bool callCenterAgent = false;
+    public bool programmer = false;
+    public bool crappyApartment = false;
+    public bool basicApartment = false;
+    public bool luxuryApartment = false;
+    public bool car = false;
+    public bool motorcycle = false;
+    public bool bus = false;
     private bool gift0 = false;
     private bool gift500 =  false;
     private bool gift1000 = false;
@@ -77,23 +77,24 @@ public class GameControllerIntro : MonoBehaviour
     public Text summaryGiftText;
     public Text summaryCurrentMoneyText;
 
-    //private int actions = 3;
-    //private double tips = random(0.00, 200.00);
-    //private int education = 1;
-    //private double gift;
-    private double initialMoney = 0.00;
-    private double currentMoney = 0.00;
-    private double giftMoney = 0.00;
-    private double monthlySalary;
-    private double rent = 0.00;
-    private double gas = 3.50;
-    private double transportationCost = 0.00;
-    //private double totalIncome = 0.00;
-    //private double tax = 0.15;
-    private string educationSelected;
-    private string jobSelected;
-    private string housingSelected;
-    private string transportationSelected;
+    public double initialMoney = 0.00;
+    public double currentMoney = 0.00;
+    public double giftMoney = 0.00;
+    public double monthlySalary;
+    public double rent = 0.00;
+    public double gas = 3.50;
+    public double transportationCost = 0.00;
+
+    public string educationSelected;
+    public string jobSelected;
+    public string housingSelected;
+    public string transportationSelected;
+
+    public GameObject IntroController;
+    public int jobNow;
+    public int educationNow;
+    public int travelNow;
+    public int houseNow;
 
 
     // Start is called before the first frame update
@@ -148,6 +149,7 @@ public class GameControllerIntro : MonoBehaviour
             educationScreen2.SetActive(true);
 
             educationSelected = "No Degree";
+            educationNow = 1;
             
             //Sets Available Jobs
             fryCookButton.SetActive(true);
@@ -162,6 +164,7 @@ public class GameControllerIntro : MonoBehaviour
             educationScreen3.SetActive(true);
 
             educationSelected = "High School Diploma";
+            educationNow = 2;
             
             fryCookButton.SetActive(true);
             waiterButton.SetActive(true);
@@ -175,6 +178,7 @@ public class GameControllerIntro : MonoBehaviour
             educationScreen4.SetActive(true);
 
             educationSelected = "Bachelor's Degree";
+            educationNow = 3;
             
             fryCookButton.SetActive(true);
             waiterButton.SetActive(true);
@@ -211,6 +215,7 @@ public class GameControllerIntro : MonoBehaviour
             
             jobSelected = "Waiter";
             monthlySalary = 1120.00;
+            jobNow = 1;
 
             crappyApartmentButton.SetActive(true);
             basicApartmentButton.SetActive(false);
@@ -223,6 +228,7 @@ public class GameControllerIntro : MonoBehaviour
             
             jobSelected = "Fry Cook";
             monthlySalary = 1600.00;
+            jobNow = 2;
 
             crappyApartmentButton.SetActive(true);
             basicApartmentButton.SetActive(true);
@@ -235,6 +241,7 @@ public class GameControllerIntro : MonoBehaviour
             
             jobSelected = "Call Center Agent";
             monthlySalary = 1920.00;
+            jobNow = 3;
 
             crappyApartmentButton.SetActive(true);
             basicApartmentButton.SetActive(true);
@@ -247,6 +254,7 @@ public class GameControllerIntro : MonoBehaviour
             
             jobSelected = "Teacher";
             monthlySalary = 2400.00;
+            jobNow = 4;
 
             crappyApartmentButton.SetActive(true);
             basicApartmentButton.SetActive(true);
@@ -260,6 +268,7 @@ public class GameControllerIntro : MonoBehaviour
             
             jobSelected = "Programmer";
             monthlySalary = 3200.00;
+            jobNow = 5;
             
             crappyApartmentButton.SetActive(true);
             basicApartmentButton.SetActive(true);
@@ -306,6 +315,7 @@ public class GameControllerIntro : MonoBehaviour
             
             housingSelected = "Crappy Apartment";
             rent = 700.00;
+            houseNow = 1;
         }
         else if (basicApartment == true)
         {
@@ -314,6 +324,7 @@ public class GameControllerIntro : MonoBehaviour
             
             housingSelected = "Basic Apartment";
             rent = 1200.00;
+            houseNow = 2;
         }
         else if (luxuryApartment == true)
         {
@@ -322,6 +333,7 @@ public class GameControllerIntro : MonoBehaviour
             
             housingSelected = "Luxury Apartment";
             rent = 1700.00;
+            houseNow = 3;
         }
     }
     
@@ -352,6 +364,7 @@ public class GameControllerIntro : MonoBehaviour
             
             transportationSelected = "Car";
             transportationCost = gas * 40;
+            travelNow = 1;
         }
         else if (motorcycle == true)
         {
@@ -360,6 +373,7 @@ public class GameControllerIntro : MonoBehaviour
             
             transportationSelected = "Motorcycle";
             transportationCost = gas * 20;
+            travelNow = 2;
         }
         else if (bus == true)
         {
@@ -368,6 +382,7 @@ public class GameControllerIntro : MonoBehaviour
             
             transportationSelected = "City Bus Transit";
             transportationCost = gas * (200 / 7);
+            travelNow = 3;
         }
     }
 
@@ -488,9 +503,9 @@ public class GameControllerIntro : MonoBehaviour
         SceneManager.LoadScene(0);
     }
 
-    public void Month1()
+    public void Month01()
     {
-        //SceneManager.LoadScene(2);
+        SceneManager.LoadScene(2);
     }
 }
 
