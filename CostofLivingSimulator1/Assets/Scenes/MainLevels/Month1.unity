@@ -275,7 +275,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -1029,7 +1029,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -1511,7 +1511,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: MainMenu
         m_Mode: 1
@@ -1645,7 +1645,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -1779,7 +1779,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: CallCenterAgentInfo
         m_Mode: 1
@@ -1993,7 +1993,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: Event2d
         m_Mode: 1
@@ -2343,7 +2343,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityPayGrocery2
         m_Mode: 1
@@ -2691,7 +2691,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: BasicApartmentInfo
         m_Mode: 1
@@ -2960,7 +2960,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: StartMonth
         m_Mode: 1
@@ -3172,7 +3172,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: NoDegreeInfo
         m_Mode: 1
@@ -3306,7 +3306,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
@@ -3440,7 +3440,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -3652,7 +3652,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: GameComplete
         m_Mode: 1
@@ -3786,7 +3786,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -4055,7 +4055,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: MotorcycleInfo
         m_Mode: 1
@@ -4539,7 +4539,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: BusInfo
         m_Mode: 1
@@ -5021,7 +5021,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityPayTravel
         m_Mode: 1
@@ -5155,7 +5155,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: BachelorsDegreeInfo
         m_Mode: 1
@@ -5424,7 +5424,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: HSDiplomaInfo
         m_Mode: 1
@@ -5636,7 +5636,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -5770,7 +5770,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -5964,150 +5964,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 442900857}
-  - component: {fileID: 442900856}
   m_Layer: 0
   m_Name: Month01Controller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
---- !u!114 &442900856
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 442900855}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7055987d85dfa7842a7bf727a6a92dd4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  month01Screen: {fileID: 2055113954}
-  educationScreen1: {fileID: 1845237398}
-  educationScreen2: {fileID: 241763275}
-  educationScreen3: {fileID: 393158167}
-  jobScreen1: {fileID: 85376850}
-  jobScreen2: {fileID: 286437314}
-  jobScreen3: {fileID: 961826295}
-  jobScreen4: {fileID: 1208171209}
-  jobScreen5: {fileID: 365107470}
-  housingScreen1: {fileID: 1776913460}
-  housingScreen2: {fileID: 1827132016}
-  housingScreen3: {fileID: 1264596185}
-  transportationScreen1: {fileID: 1398464228}
-  transportationScreen2: {fileID: 763173710}
-  transportationScreen3: {fileID: 672878130}
-  summaryScreen: {fileID: 1761565971}
-  activity1RentScreen: {fileID: 203535421}
-  activity2TravelScreen: {fileID: 505865032}
-  activity3GroceryScreen: {fileID: 174710595}
-  event1Screen: {fileID: 1667588521}
-  event2Screen: {fileID: 1285385308}
-  gameCompleteScreen: {fileID: 2034875389}
-  paydayScreen: {fileID: 1915760449}
-  noDegreeButton: {fileID: 253244656}
-  hsDiplomaButton: {fileID: 390045975}
-  bachelorsDegreeButton: {fileID: 380274511}
-  fryCookButton: {fileID: 1241171347}
-  waiterButton: {fileID: 1274706104}
-  teacherButton: {fileID: 802539565}
-  callCenterAgentButton: {fileID: 141225143}
-  programmerButton: {fileID: 733296370}
-  crappyApartmentButton: {fileID: 461366913}
-  basicApartmentButton: {fileID: 209022378}
-  luxuryApartmentButton: {fileID: 652260224}
-  carButton: {fileID: 678629669}
-  motorcycleButton: {fileID: 329287602}
-  busButton: {fileID: 358083843}
-  summaryButton: {fileID: 1616289643}
-  activity1RentButton: {fileID: 758332577}
-  activity2TravelButton: {fileID: 1541236997}
-  activity3GroceryButton: {fileID: 1495203084}
-  activity1PayRentButton: {fileID: 1615716999}
-  activity1PayTravelButton: {fileID: 376783893}
-  activity3PayGrocery1Button: {fileID: 2126733713}
-  activity3PayGrocery2Button: {fileID: 187322729}
-  activity3PayGrocery3Button: {fileID: 1478114812}
-  event2Button1: {fileID: 536476738}
-  event2Button2: {fileID: 847398682}
-  event2Button3: {fileID: 167150828}
-  paydayButton: {fileID: 1689393574}
-  startMonthButton: {fileID: 222042285}
-  noDegree: 0
-  hsDiploma: 0
-  bachelorsDegree: 0
-  fryCook: 0
-  waiter: 0
-  teacher: 0
-  callCenterAgent: 0
-  programmer: 0
-  crappyApartment: 0
-  basicApartment: 0
-  luxuryApartment: 0
-  car: 0
-  motorcycle: 0
-  bus: 0
-  noDegree1: 0
-  hsDiploma1: 0
-  bachelorsDegree1: 0
-  fryCook1: 0
-  waiter1: 0
-  teacher1: 0
-  callCenterAgent1: 0
-  programmer1: 0
-  crappyApartment1: 0
-  basicApartment1: 0
-  luxuryApartment1: 0
-  car1: 0
-  motorcycle1: 0
-  bus1: 0
-  gameOver: 0
-  jobSelected: 
-  housingSelected: 
-  transportationSelected: 
-  jobSelected1: 
-  housingSelected1: 
-  transportationSelected1: 
-  updatingMoneyText: {fileID: 2029424901}
-  rentPaidText: {fileID: 1755324387}
-  travelPaidText: {fileID: 1987557613}
-  foodPaidText: {fileID: 1814632449}
-  eventPaidText: {fileID: 1252740517}
-  summaryInitialMoneyText: {fileID: 909016997}
-  summaryJobText: {fileID: 2118673266}
-  summaryJobPayText: {fileID: 2128161677}
-  summaryJobTaxPaidText: {fileID: 515363861}
-  summaryJobPayReceivedText: {fileID: 2005398844}
-  summaryHousingText: {fileID: 337806971}
-  summaryHousingRentPaidText: {fileID: 471831103}
-  summaryTransportationText: {fileID: 162274992}
-  summaryTransportationCostPaidText: {fileID: 720975845}
-  summaryGroceryCostPaidText: {fileID: 1021741672}
-  summaryEvent2PaidText: {fileID: 1195004818}
-  summaryCurrentMoneyText: {fileID: 52693581}
-  gameCompleteText: {fileID: 1628580742}
-  currentMoney: 0
-  monthlySalary: 0
-  rent: 0
-  gas: 0
-  transportationCost: 0
-  startingMonthMoney1: 0
-  currentMoney1: 0
-  monthlySalary1: 0
-  rent1: 0
-  gas1: 0
-  transportationCost1: 0
-  month01Controller: {fileID: 442900855}
-  educationNow: 0
-  jobNow: 0
-  houseNow: 0
-  travelNow: 0
-  educationNow1: 0
-  jobNow1: 0
-  houseNow1: 0
-  travelNow1: 0
+  m_IsActive: 0
 --- !u!4 &442900857
 Transform:
   m_ObjectHideFlags: 0
@@ -6207,7 +6070,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: CrappyApartmentInfo
         m_Mode: 1
@@ -7120,7 +6983,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: Event2c
         m_Mode: 1
@@ -7254,7 +7117,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -7656,7 +7519,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &644607128
 GameObject:
@@ -7877,7 +7740,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: LuxuryApartmentInfo
         m_Mode: 1
@@ -8359,7 +8222,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: CarInfo
         m_Mode: 1
@@ -8708,7 +8571,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ProgrammerInfo
         m_Mode: 1
@@ -8842,7 +8705,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -8976,7 +8839,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityRent
         m_Mode: 1
@@ -9188,7 +9051,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: TeacherInfo
         m_Mode: 1
@@ -9727,7 +9590,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: Event2b
         m_Mode: 1
@@ -9861,7 +9724,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -10648,7 +10511,7 @@ RectTransform:
   - {fileID: 1761565972}
   - {fileID: 2034875390}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11357,7 +11220,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -11841,7 +11704,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: Event1b
         m_Mode: 1
@@ -12245,7 +12108,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -13423,7 +13286,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: FryCookInfo
         m_Mode: 1
@@ -13715,7 +13578,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: WaiterInfo
         m_Mode: 1
@@ -15088,7 +14951,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -15222,7 +15085,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityPayGrocery3
         m_Mode: 1
@@ -15491,7 +15354,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -15625,7 +15488,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityGrocery
         m_Mode: 1
@@ -16029,7 +15892,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityTravel
         m_Mode: 1
@@ -16433,7 +16296,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -16702,7 +16565,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityPayRent
         m_Mode: 1
@@ -16836,7 +16699,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: Month01Summary
         m_Mode: 1
@@ -17185,7 +17048,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -17398,7 +17261,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -17532,7 +17395,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: PayDay
         m_Mode: 1
@@ -17666,7 +17529,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -18689,7 +18552,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -19577,7 +19440,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ReturnToMonth01
         m_Mode: 1
@@ -20752,7 +20615,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 442900856}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: GameControllerMonth01, Assembly-CSharp
         m_MethodName: ActivityPayGrocery1
         m_Mode: 1

@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - GameControllerIntro
     - MainMenu
+    - UltimateGameController
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
@@ -82,109 +83,265 @@ ScriptsOnlyBuild:
     fullTypeName: MainMenu
     methodName: PlayGame
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: LuxuryApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ActivityPayGrocery1
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: BasicApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseJobWaiter
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: Event1b
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToTransportationScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: BachelorsDegreeInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ActivityGrocery
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseJobFryCook
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: StartMonth
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseHousingBasicApartment
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseHousingCrappyApartment
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: NoDegreeInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: TeacherInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: CarInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: Event2b
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToTransportationScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToJobScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ToGiftScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: Event2c
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToSummaryScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ToJobScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseTransportationBus
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: PayDay
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ActivityPayRent
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToHousingScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ToHousingScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ToSummaryScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: QuitGame
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseGift500Dollars
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseJobTeacher
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseEducationHighSchoolDiploma
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ActivityPayGrocery3
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseGift0Dollars
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ActivityRent
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToGiftScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ProgrammerInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: CrappyApartmentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToJobScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseGift1000Dollars
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: MotorcycleInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: MainMenu
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseTransportationMotorcycle
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: CallCenterAgentInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: BusInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseEducationNoDegree
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: WaiterInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToTransportationScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: FryCookInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: GameComplete
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseTransportationCar
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ActivityTravel
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseJobProgrammer
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ActivityPayTravel
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToGiftScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: HSDiplomaInfo
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToSummaryScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ToEducationScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: Month01Summary
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToHousingScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ChooseHousingLuxuryApartment
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: Event2d
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToHousingScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseEducationBachelorsDegree
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
+    methodName: ReturnToMonth01
+  - assembly: Assembly-CSharp
+    fullTypeName: UltimateGameController
     methodName: ToHousingScreen
   - assembly: Assembly-CSharp
-    fullTypeName: GameControllerIntro
+    fullTypeName: UltimateGameController
     methodName: ChooseJobCallCenterAgent
   sceneClasses:
     Assets/Scenes/GameUI/MainMenu.unity:
@@ -207,7 +364,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1568}
+      Script: {instanceID: 1564}
     - Class: 114
       Script: {instanceID: 2346}
     - Class: 114
@@ -217,21 +374,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3480}
     - Class: 114
-      Script: {instanceID: 4636}
+      Script: {instanceID: 4638}
     - Class: 114
-      Script: {instanceID: 4772}
+      Script: {instanceID: 4774}
     - Class: 114
-      Script: {instanceID: 5108}
+      Script: {instanceID: 5110}
     - Class: 114
-      Script: {instanceID: 6038}
+      Script: {instanceID: 6040}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6784}
     - Class: 114
-      Script: {instanceID: 6988}
+      Script: {instanceID: 6990}
     - Class: 114
-      Script: {instanceID: 7406}
+      Script: {instanceID: 7408}
     - Class: 114
-      Script: {instanceID: 9524}
+      Script: {instanceID: 9526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -266,7 +423,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1568}
+      Script: {instanceID: 1564}
     - Class: 114
       Script: {instanceID: 2856}
     - Class: 114
@@ -274,17 +431,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3480}
     - Class: 114
-      Script: {instanceID: 6038}
+      Script: {instanceID: 6040}
     - Class: 114
-      Script: {instanceID: 6382}
+      Script: {instanceID: 6384}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6784}
     - Class: 114
-      Script: {instanceID: 6880}
+      Script: {instanceID: 6882}
     - Class: 114
-      Script: {instanceID: 6988}
+      Script: {instanceID: 6990}
     - Class: 114
-      Script: {instanceID: 7406}
+      Script: {instanceID: 7408}
+    - Class: 114
+      Script: {instanceID: 51812}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1054,7 +1213,7 @@ ScriptsOnlyBuild:
     className: TextMeshSpawner
   - hash:
       serializedVersion: 2
-      Hash: 995c44bafb22a69abeb9ea3a3a298e6b
+      Hash: 1cdbc761c8d82e2af26327308d947b35
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameControllerIntro
@@ -1442,8 +1601,14 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: c7e890759f8f5735424d46b4cda52a96
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UltimateGameController
   platform: 20
   scenePathNames:
   - Assets/Scenes/GameUI/MainMenu.unity
   - Assets/Scenes/MainLevels/Intro.unity
-  playerPath: C:/Users/theja/git/School/DIG6647/costoflivingsimulator1/CostofLivingSimulator1/GameBuilds/HTMLTestBuild1
+  playerPath: C:/Users/theja/git/School/DIG6647/costoflivingsimulator1/CostofLivingSimulator1/GameBuilds/OfficialBuilds/OfficialWebBuild01
